@@ -1,6 +1,6 @@
 h1{ 
     width:33.33%;
-    border: 2px solid black;
+    border: 2px solid rgb(231, 147, 147);
 }
 #one{
     height: 400px;
@@ -12,7 +12,10 @@ h1{
 .two{
     height: 100px;
     width: 100px;
-    background-color: rgb(65, 2, 2);
+    background-color: rgb(228, 117, 117);
   
 
+}
+div{
+    font-size: 2em;
 }
