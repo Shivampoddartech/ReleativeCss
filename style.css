@@ -1,0 +1,18 @@
+h1{ 
+    width:33.33%;
+    border: 2px solid black;
+}
+#one{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    /* padding: 40px; */
+    margin: 50px;
+}
+.two{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(65, 2, 2);
+  
+
+}
